@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0tDrJqPYg11NnAE/5GLQ8zswV9exmrfOj3Kh0FjLcxqeRskmlrxfdY0S5ibEmzPe64h3RZ+IXUp8nqzhNBp8qQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AAIO\\My Private Documents\\Curso-MVC\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AAIO\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\AAIO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\AAIO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
